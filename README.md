@@ -19,8 +19,6 @@ build 是编译位置
 
 inputimage 是输入图片所在文件夹
 
-outputimage 是输出图片所在文件夹
-
 model 是RKNN模型以及标签名txt文件所在文件夹
 
 rknn_lib 是瑞芯微官方动态库librknnrt.so所在位置
