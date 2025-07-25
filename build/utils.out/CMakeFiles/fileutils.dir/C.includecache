@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/firefly/GitHUb测试/ResNet50v2_RK3588_Classification/utils/file_utils.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
