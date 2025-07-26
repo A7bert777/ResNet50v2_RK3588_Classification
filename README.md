@@ -31,7 +31,7 @@ rknn_lib 是瑞芯微官方动态库librknnrt.so所在位置
 
 **③make**
 
-**④./rknn_resnet50_demo**
+**④./rknn_resnet50_demo ../model/xxx.rknn ../inputimage/xxx.png**
 
 
 
